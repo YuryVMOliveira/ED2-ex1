@@ -39,7 +39,7 @@ int main(int argc, char* argv[])
     }
     string linha;
     getline(entrada, linha);
-    cout << "olaaaaa";
+ 
     int i = 0;
     while(getline(entrada, linha)) // Lê uma linha por vez do arquivo
   {
