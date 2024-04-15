@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exporta.dir/exporta.cpp.o -o exporta 

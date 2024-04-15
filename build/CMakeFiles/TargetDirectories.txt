@@ -1,0 +1,4 @@
+/mnt/c/Projetos/C++/trabalho-1-ED2/ex1-arquivos-YuryVMOliveira/build/CMakeFiles/exporta.dir
+/mnt/c/Projetos/C++/trabalho-1-ED2/ex1-arquivos-YuryVMOliveira/build/CMakeFiles/testa.dir
+/mnt/c/Projetos/C++/trabalho-1-ED2/ex1-arquivos-YuryVMOliveira/build/CMakeFiles/edit_cache.dir
+/mnt/c/Projetos/C++/trabalho-1-ED2/ex1-arquivos-YuryVMOliveira/build/CMakeFiles/rebuild_cache.dir
